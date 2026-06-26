@@ -4,7 +4,7 @@ metadata:
   name: my-app
   namespace: demo
 spec:
-  type: NodePort
+  type: ClusterIP
   selector:
     app: my-app
   ports:
