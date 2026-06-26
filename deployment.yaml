@@ -15,6 +15,6 @@ spec:
     spec:
       containers:
         - name: my-app
-          image: hamidhosseini2/my-app:8-4331b37
+          image: hamidhosseini2/my-app:15-8366de2
           ports:
             - containerPort: 80
